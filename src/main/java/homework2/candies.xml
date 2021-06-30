@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<factory>
+    <candys>
+        <stuffing>nut</stuffing>
+        <type>jelly</type>
+        <weight>20</weight>
+    </candys>
+    <candys>
+        <stuffing>nut</stuffing>
+        <type>chocolate</type>
+        <weight>50</weight>
+    </candys>
+
+</factory>
